@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shifaullah.github.io/csb-0rioi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shifaullah.github.io/csb-0rioi/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://shifaullah.github.io/csb-0rioi/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://shifaullah.github.io/csb-0rioi/static/js/runtime-main.ba8a8e0e.js",
+    "runtime-main.js.map": "https://shifaullah.github.io/csb-0rioi/static/js/runtime-main.ba8a8e0e.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://shifaullah.github.io/csb-0rioi/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://shifaullah.github.io/csb-0rioi/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://shifaullah.github.io/csb-0rioi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shifaullah.github.io/csb-0rioi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://shifaullah.github.io/csb-0rioi/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8a8e0e.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
